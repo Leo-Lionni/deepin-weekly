@@ -86,4 +86,46 @@ Deepin 15.8 Look Around [YouTube](https://www.youtube.com/watch?v=3vDHZbWDW-U)
 
 Deepin 15.8 Review [YouTube](https://www.youtube.com/watch?v=ubBMBHoXCuQ)
 
-Review Deepin 15.8 | La distro de Linux con el mejor diseño  [YouTube](https://www.youtube.com/watch?v=BGc9qhao1LA)Первое впечатление о Deepin 15.8 - Почти Допилили  
+Review Deepin 15.8 | La distro de Linux con el mejor diseño  [YouTube](https://www.youtube.com/watch?v=BGc9qhao1LA)
+
+## **第三周** 2018年12月9日
+
+【官方】2018.12.05更新 [中文](https://www.deepin.org/2018/12/05/deepin-system-updates-2018-12-05/) [English](https://www.deepin.org/en/2018/12/05/deepin-system-updates-2018-12-05/) 
+
+Deepin国产操作系统使用心得 [bbs帖子](https://bbs.deepin.org/forum.php?mod=viewthread&tid=172119)
+
+如何给Deepin系统安装最新内核？ [简书](https://www.jianshu.com/p/242d01acfa7d)
+
+ubuntu/deepin下golang1.11.2安装配置与beego、bee安装 [简书](https://www.jianshu.com/p/e3879fb6dcdd)
+
+linux（deepin）下对编译Qt 5.12.0静态库 [简书](https://www.jianshu.com/p/40f412067f73)
+
+霍！一周 Linux 使用体验！ [微信公众号](https://mp.weixin.qq.com/s/zsAgx36Cjj6eXjEu2tq9ow) [CSDN](https://blog.csdn.net/weixin_43744799/article/details/84873039)
+
+【转载】Deepin，一款集颜值与实用性于一身的国产操作系统 [搜狐](http://www.sohu.com/a/279512799_698936)
+
+解决：deepin连接预共享秘钥的L2TP/IPSec的VPN下，出现“连接vpn失败，原因未知”  [梁钟霖个人博客](https://www.liangzl.com/get-article-detail-15851.html) [开源中国](https://my.oschina.net/funcy/blog/1940553)
+
+解决在deepin15.8上安装宝塔6.0界面挂掉的问题 [CSDN](https://blog.csdn.net/sdfgjhdgh/article/details/84872593)
+
+联想小新 Air Pro 13笔记本安装win10和Deepin15.8双系统 [CSDN](https://blog.csdn.net/sinat_40045752/article/details/84748614)
+
+Deepin Builds a Better Linux Desktop  [linuxinsider](https://www.linuxinsider.com/story/85719.html)
+
+Cris 从 Windows 迁徙到 Deepin 之旅之脑图神器：XMind ZEN [b站](https://www.bilibili.com/video/av37760516?from=search&seid=16535853559071840415)
+
+Cris 从 Windows 迁徙到 Deepin 之旅之图片上传神器：PicGo [b站](https://www.bilibili.com/video/av37740783?from=search&seid=16535853559071840415)
+
+Cris 从 Windows 迁徙到 Deepin 之旅之文字创作神器：Typora [b站](https://www.bilibili.com/video/av37718919?from=search&seid=16535853559071840415)
+
+Cris 从 Windows 迁徙到 Deepin 之旅 [b站](https://www.bilibili.com/video/av37715904?from=search&seid=16535853559071840415)
+
+Linux系统安装VMware [b站](https://www.bilibili.com/video/av37731917?from=search&seid=16535853559071840415)
+
+在VM Player上安装体验最美的Linux操作系统（深度 Deepin） [b站](https://www.bilibili.com/video/av37541244?from=search&seid=16535853559071840415)
+
+如何体验最新版软件(以deepin15.8为例) [b站](https://www.bilibili.com/video/av37373902?from=search&seid=16535853559071840415)
+
+Is Deepin Linux spying on you ? History and Spyware Controversy [YouTube](https://www.youtube.com/watch?v=A0w5GOYiPhY)
+
+WHAT DOES INITRAMFS MESSAGE MEAN IN DEEPIN AND HOW TO SOLVE IT [deepinenespañol](https://xn--deepinenespaol-1nb.org/en/que-significa-el-mensaje-initramfs-en-deepin-y-como-solventarlo/)
