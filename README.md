@@ -129,3 +129,58 @@ Linux系统安装VMware [b站](https://www.bilibili.com/video/av37731917?from=se
 Is Deepin Linux spying on you ? History and Spyware Controversy [YouTube](https://www.youtube.com/watch?v=A0w5GOYiPhY)
 
 WHAT DOES INITRAMFS MESSAGE MEAN IN DEEPIN AND HOW TO SOLVE IT [deepinenespañol](https://xn--deepinenespaol-1nb.org/en/que-significa-el-mensaje-initramfs-en-deepin-y-como-solventarlo/)
+
+
+
+### 第四周 2018年12月16日
+
+deepin荣获2018 年度最受欢迎中国开源软件 TOP20 [官方 - 公司新闻](https://www.deepin.com/archives/2201)
+
+> 简评：大家有没有去投票呀
+
+【官方】 深度系统更新（2018.12.13） [deepin bbs](https://www.deepin.org/2018/12/13/deepin-system-updates-2018-12-13/)
+
+deepin 安装MongoDB [简书](https://www.jianshu.com/p/13281da21593)
+
+deepin下安装node和npm [简书](https://www.jianshu.com/p/8a3db1772c6a)
+
+基于Linux的国产操作系统:Deepin简单体验 [b站](https://www.bilibili.com/video/av38333798?from=search&seid=11757793716267644132)
+
+vmware装Linux系统(deepin) [b站](https://www.bilibili.com/video/av38269757?from=search&seid=11757793716267644132)
+
+【软件展示】国产深度deepin系统，界面华丽，效果真的辣么好，快去尝尝 [b站](https://www.bilibili.com/video/av38242673?from=search&seid=11757793716267644132)
+
+【教程】Deepin的安装与卸载 [b站](https://www.bilibili.com/video/av38200166?from=search&seid=11757793716267644132)
+
+官宣：华为将抛弃安卓，改用Deepin OS系统！[b站](https://www.bilibili.com/video/av38138828?from=search&seid=11757793716267644132)
+
+>  简评：这个真的还是假的？看评论似乎不对
+
+Deepin Linux玩我的世界 [b站](https://www.bilibili.com/video/av37996808?from=search&seid=11757793716267644132)
+
+【小技巧】要黑要白随心定 | 魔改深度Deepin托盘底色 [b站](https://www.bilibili.com/video/av38011902?from=search&seid=11757793716267644132)
+
+【龙芯笔记】巨龙之芯——龙芯3A3000上机体验 [b站](https://www.bilibili.com/video/av37972927?from=search&seid=11757793716267644132)
+
+小白教你桌面图标自定义，deepin已炸，勿念，划水水 [b站](https://www.bilibili.com/video/av37892361?from=search&seid=11757793716267644132)
+
+使用Linux Deepin15 是怎样的体验? [知乎](https://www.zhihu.com/question/39267083/answers/created)
+
+> 简评：壁纸无法缩放、无法平铺；系统更新问题、cpu保护问题。
+
+官宣：华为将抛弃安卓，改用Deepin OS系统！ [eastday - Ilovecars](http://mini.eastday.com/mobile/181213030723636.html)
+
+> 简评：我都不知道有这个东西，大家看看就好
+
+Linux Deepin 使用日常记录 - 解决启动Failed to start Load Kernel Modules的错误 [liangzl](https://www.liangzl.com/get-article-detail-14530.html)
+
+【喜报+1】deepin团队荣获首届中国优秀开源项目二等奖 [搜狐](http://www.sohu.com/a/281681163_698936)
+
+Deepin 15.8 Version 2 Review [YouTube](https://www.youtube.com/watch?v=BoSAo684Fqk)
+
+Deepin 15.8 Version 2 Run Through [YouTube](https://www.youtube.com/watch?v=m-4KvJGbYQw)
+
+Checking out ExTiX 19.0 Deepin [YouTube](https://www.youtube.com/watch?v=kq0GI7NEIpo)
+
+【转载】deepin开发指南 - deepin研发心得系列文章  [deepin开发指南](http://deepin.lolimay.cn/deepin/R&D/index.html) [CSDN专栏](https://blog.csdn.net/qq_32768743/column/info/31122)
+
