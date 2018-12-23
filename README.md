@@ -184,3 +184,47 @@ Checking out ExTiX 19.0 Deepin [YouTube](https://www.youtube.com/watch?v=kq0GI7N
 
 【转载】deepin开发指南 - deepin研发心得系列文章  [deepin开发指南](http://deepin.lolimay.cn/deepin/R&D/index.html) [CSDN专栏](https://blog.csdn.net/qq_32768743/column/info/31122)
 
+
+
+### 第五周 2018年12月23日
+
+【官方】深度滚动更新工作流程 [Deepin Tech Blog](https://docs.deepin.io/?p=1116)
+
+告别win10，拥抱linux [简书](https://www.jianshu.com/p/8b8a3455d565)
+
+> 简评: 评论更精彩
+
+Deepin15.8 初体验 [简书](https://www.jianshu.com/p/96a0ec7a774f)
+
+> 简评：因华为+deepin系统的新闻入坑
+
+使用Qt读写JSON文件(一)——简单的写入文件 [简书](https://www.jianshu.com/p/2f05459a8523)
+
+用deepin堆砌工作环境 [博客园](https://www.cnblogs.com/yyuyu/p/10164356.html)
+
+准备用 deepinLinux，各位大佬来吐个槽 [V2EX](https://us.v2ex.com/t/519922)
+
+Fedora 30 Might Offer The Deepin Desktop Environment [phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-30-Deepin-Proposal&from=timeline&isappinstalled=0) [fedora wiki](https://fedoraproject.org/wiki/Changes/DeepinDE) 
+
+Fedora 30预计将官方支持Deepin桌面环境 [百度贴吧](http://tieba.baidu.com/p/5983838461)
+
+水了水了，还是喜欢deepin，你可能喜欢我的BGM?!! [b站](https://www.bilibili.com/video/av38679190?from=search&seid=13169636859923091047)
+
+> 简评：deepin安装视频
+
+Linux系统安装MS office 2010 [b站](https://www.bilibili.com/video/av38518862?from=search&seid=13169636859923091047)
+
+deepin rating 8.8  [distrowatch.com](https://distrowatch.com/dwres.php?resource=ratings&distro=deepin)
+
+> 简评：关注点在评论
+
+Deepin and KDE Neon's trackpad feels weird? [reddit](https://www.reddit.com/r/linuxquestions/comments/a8czmd/deepin_and_kde_neons_trackpad_feels_weird/?ref=readnext)
+
+Switching to Linux Deepin [YouTube](https://www.youtube.com/watch?v=xdft_xl5_3U)
+
+Looking at Linux Deepin EULA from v15.8 [YouTube](https://www.youtube.com/watch?v=NdN15JKiQYw)
+
+> 简评：都很关心EULA(最终用户许可协议)呀
+
+
+
