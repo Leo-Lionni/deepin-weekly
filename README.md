@@ -228,3 +228,41 @@ Looking at Linux Deepin EULA from v15.8 [YouTube](https://www.youtube.com/watch?
 
 
 
+
+
+### 第六周 2018年12月23日
+
+【官方】2018 deepin——不负所望，稳步向前 [deepin bbs](https://bbs.deepin.org/forum.php?mod=viewthread&tid=173047)
+
+【官方博客】Conan: C++包管理工具 [Deepin Tech Blog](https://docs.deepin.io/)
+
+> 简评：如果dtk能进bincrafters / public-conan仓库就好了
+
+deepin装devtools报错 [简书](https://www.jianshu.com/p/a186e3641edb)
+
+deepin笔记 [简书](https://www.jianshu.com/p/6ca7b3e52271)
+
+Deepin 系统下安装 mysql [简书](https://www.jianshu.com/p/6f7bef0b3ddd)
+
+用xDroid在Linux下玩王者荣耀及其它安卓应用 [简书](https://www.jianshu.com/p/dbcddd89cbba)
+
+> 简评：环境是deepin
+
+deepin Linux使用体验 - 第五滴泪 [b站](https://www.bilibili.com/video/av39324082?from=search&seid=16040603350747716018)
+
+deepin操作系统使用体验- ChlorTrimeton [b站](https://www.bilibili.com/video/av39205911?from=search&seid=16040603350747716018)
+
+deepin存在的意义是什么？- 白爱诉的回答 [知乎](https://www.zhihu.com/question/38631670/answer/559729966)
+
+deepin Linux 确实好用，暂时整机就用它了 [V2EX](https://www.v2ex.com/t/521074)
+
+Deepin 15.8 1080ti cuda9.0 cudnn7.4 [知乎](https://zhuanlan.zhihu.com/p/51361963)
+
+> 简评：用deepin来学习的人越来越多了
+
+在深度Deepin系统使用XMind 8的方法 [云网牛站](https://ywnz.com/linuxjc/3886.html)
+
+deepin下安装宝塔成功，但是更换目录后一直403 [宝塔bbs](https://www.bt.cn/bbs/thread-20902-1-1.html)
+
+How to Install Deepin Desktop Environment in Linux Manjaro 18.0 [YouTube](https://www.youtube.com/watch?v=P7Hm8H3FLX8)
+
