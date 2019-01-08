@@ -132,7 +132,7 @@ WHAT DOES INITRAMFS MESSAGE MEAN IN DEEPIN AND HOW TO SOLVE IT [deepinenespañol
 
 
 
-### 第四周 2018年12月16日
+## 第四周 2018年12月16日
 
 deepin荣获2018 年度最受欢迎中国开源软件 TOP20 [官方 - 公司新闻](https://www.deepin.com/archives/2201)
 
@@ -186,7 +186,7 @@ Checking out ExTiX 19.0 Deepin [YouTube](https://www.youtube.com/watch?v=kq0GI7N
 
 
 
-### 第五周 2018年12月23日
+## 第五周 2018年12月23日
 
 【官方】深度滚动更新工作流程 [Deepin Tech Blog](https://docs.deepin.io/?p=1116)
 
@@ -230,7 +230,7 @@ Looking at Linux Deepin EULA from v15.8 [YouTube](https://www.youtube.com/watch?
 
 
 
-### 第六周 2018年12月23日
+## 第六周 2018年12月23日
 
 【官方】2018 deepin——不负所望，稳步向前 [deepin bbs](https://bbs.deepin.org/forum.php?mod=viewthread&tid=173047)
 
@@ -266,3 +266,4 @@ deepin下安装宝塔成功，但是更换目录后一直403 [宝塔bbs](https:/
 
 How to Install Deepin Desktop Environment in Linux Manjaro 18.0 [YouTube](https://www.youtube.com/watch?v=P7Hm8H3FLX8)
 
+## 第七周 2019年1月6日 停更一周
