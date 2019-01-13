@@ -230,7 +230,7 @@ Looking at Linux Deepin EULA from v15.8 [YouTube](https://www.youtube.com/watch?
 
 
 
-## 第六周 2018年12月23日
+## 第六周 2018年12月30日
 
 【官方】2018 deepin——不负所望，稳步向前 [deepin bbs](https://bbs.deepin.org/forum.php?mod=viewthread&tid=173047)
 
@@ -267,3 +267,43 @@ deepin下安装宝塔成功，但是更换目录后一直403 [宝塔bbs](https:/
 How to Install Deepin Desktop Environment in Linux Manjaro 18.0 [YouTube](https://www.youtube.com/watch?v=P7Hm8H3FLX8)
 
 ## 第七周 2019年1月6日 停更一周
+
+## 第八周 2019年1月13日 
+
+同时补充12月30日以后的(第七周)
+
+深度系统更新（2019.01.11） [deepin论坛](https://www.deepin.org/2019/01/11/deepin-system-updates-2019-01-11/)
+
+【转载】Deepin Builds a Better Linux Desktop [深度操作系统微信公众号](https://mp.weixin.qq.com/s?__biz=MzA5NzE0Mjg4Ng==&mid=2650418186&idx=1&sn=46d522c725ac2da3beaac52a8f9c96c4&chksm=88abdd03bfdc5415ad63eafa120b6e39ccebcffb4040c2165e7a3082aa7e82c196f2ba2fe2c9&mpshare=1&scene=23&srcid=0113F8XWqxgZMNQ4oiv3mJSa#rd)
+
+新年新气象：deepin将采用滚动更新流程 [深度操作系统微信公众号](https://mp.weixin.qq.com/s?__biz=MzA5NzE0Mjg4Ng==&mid=2650418150&idx=1&sn=b46c73df6d9345c3bcd1224728b69a23&chksm=88abdaefbfdc53f9949f5331be2c5415a0d4aca4d43e2455817818b02e8027f05ae039f2782a&scene=21#wechat_redirect)
+
+在自己的linux电脑上玩kvm [简书](https://www.jianshu.com/p/7ffd8b6118ce)
+
+deepin搭建hadoop开发环境 [简书](https://www.jianshu.com/p/9aa2d7f8179e)
+
+深度 linux 搭建 php 开发环境 [简书](https://www.jianshu.com/p/d44e912bf1b7)
+
+【deepin系统：我这该死的无处安放的灵魂】【旧电脑改造】旧电脑改造之从零开始在旧笔记本上安装deepin系统，超详细教程 [b站](https://www.bilibili.com/video/av40202452?from=search&seid=16104190124796213696)
+
+国产DEEPIN深度操作系统简单上手体验 [b站](https://www.bilibili.com/video/av40234964?from=search&seid=16104190124796213696)
+
+deepin15.8日常使用情况 [b站](https://www.bilibili.com/video/av40284222?from=search&seid=16104190124796213696)
+
+deepin Linux下载 [b站](https://www.bilibili.com/video/av40571770?from=search&seid=16104190124796213696)
+
+国产深度装机 [b站](https://www.bilibili.com/video/av40585419?from=search&seid=16104190124796213696)
+
+> 简评：这个up主用到deepin版本好老
+
+chromebook pixel 2013版成功刷入deepin 15.8 完美！ [百度贴吧](http://tieba.baidu.com/p/6003581578)
+
+How to install League of Legends on Deepin 15.8 [YouTub](https://www.youtube.com/watch?v=rf2GfoMnh7c)
+
+> 简评：刚开始看到标题的时候还很惊讶，看到用playonlinux的时候，就没啥好说的了，最后视频也没有演示LOL的运行效果。
+
+再见 manjaro，你好 deepin [hacpai](https://hacpai.com/article/1546400930955/comment/1547288635230)
+
+Deepin系统上安装使用HP惠普打印机的方法 [byethost10](http://av98.byethost10.com/?thread-444.htm&i=1)
+
+Can I learn hacking in Deepin OS? [quora](https://www.quora.com/Can-I-learn-hacking-in-Deepin-OS)
