@@ -307,3 +307,66 @@ How to install League of Legends on Deepin 15.8 [YouTub](https://www.youtube.com
 Deepin系统上安装使用HP惠普打印机的方法 [byethost10](http://av98.byethost10.com/?thread-444.htm&i=1)
 
 Can I learn hacking in Deepin OS? [quora](https://www.quora.com/Can-I-learn-hacking-in-Deepin-OS)
+
+## 第九周 2019年1月20日
+
+【官方】深度操作系统V15.9——跬步千里，厚积薄发 [deepin论坛](https://www.deepin.org/2019/01/16/deepin15-9/)
+
+【官方】deepin15.9中文宣传片 [b站](https://www.bilibili.com/video/av40937463?from=search&seid=3051966330361241955)
+
+WPS中的字体名 [简书](https://www.jianshu.com/p/779a33f87b5f)
+
+Deepin之初体验 [简书](https://www.jianshu.com/p/f37267e2ced1)
+
+小白安装manjaro-deepin（Linux系统）踩坑 [简书](https://www.jianshu.com/p/a8923df46873)
+
+deepin安装mysql密码问题解决方案 [简书](https://www.jianshu.com/p/7afa8fe6e047)
+
+介绍一款Linux下的免费文字识别软件OCRFeeder [简书](https://www.jianshu.com/p/e6ce83c2aa83)
+
+> 简评：演示环境是deepin
+
+ubuntu/deepin 下 Sha 哈 dow 哈 socks 全局配置 [简书](https://www.jianshu.com/p/09f9341b7e1f)
+
+deepin linux环境下的Android Studio出现Key was created with errors: Picked up _JAVA_OPTIONS问题一种解决方法 [简书](https://www.jianshu.com/p/3dae3e097fc0)
+
+Linux不似你所想 [简书](https://www.jianshu.com/p/9207801f6209)
+
+> 简评：夸了一下deepin，讲了一些环境搭建方面的事情，还有常用软件
+
+【小技巧】让KDE桌面拥有运行Deepin wine程序的能力(油管营销号风格警告) [b站](https://www.bilibili.com/video/av41253421?from=search&seid=3051966330361241955)
+
+[1xiaowin]Deepin15.9安装 [b站](https://www.bilibili.com/video/av41231410?from=search&seid=3051966330361241955)
+
+★Deepin★深度Linux安装初体验(上) [b站](https://www.bilibili.com/video/av41123873?from=search&seid=3051966330361241955)
+
+★Deepin★深度Linux安装与使用(下) [b站](https://www.bilibili.com/video/av41129045?from=search&seid=3051966330361241955)
+
+[KiteAB]国产Linux系统长啥样? [b站](https://www.bilibili.com/video/av41054398?from=search&seid=3051966330361241955)
+
+> 简评：deepin现在都和国产划等号了？官方宣传的么？
+
+Linux主题ABCDE [b站](https://www.bilibili.com/video/av40890067?from=search&seid=3051966330361241955)
+
+> 简评：关注点，BGB，🤣
+
+deepin Linux 初体验，日常使用可完胜win [b站](https://www.bilibili.com/video/av40800083?from=search&seid=3051966330361241955)
+
+> 简评：差距是蛮大的，只是一直在缩小
+
+Deepin 下安装 Docker [CSDN](https://blog.csdn.net/qq_36148847/article/details/79273591)
+
+> 简评：搜出来是一篇转载的文章，我这里贴的是原文
+
+【向Linux迁移记录】Deepin下java、大数据开发环境配置【一】[CSDN](https://blog.csdn.net/lzw2016/article/details/86566873)
+
+Deepin使用体验细节评分：涉及用户界面 应用程序 开发体验 系统性能 [天天养生](https://mip.kang5.net/qita/8033820.html)
+
+> 简评：很怀疑这个网站是不是有用爬虫爬的别人的文章，真的有人会发文章到这种网站上？
+
+深度用户最期待的Deepin 15.9功能和改进 [天天养生](https://mip.kang5.net/qita/8033744.html)
+
+> 简评：同上。
+
+ 作为日常使用的操作系统，不做开发，哪个版本比较合适？白爱诉的回答 [知乎](https://www.zhihu.com/question/19676224/answer/575102960)
+
